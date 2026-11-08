@@ -22,3 +22,37 @@ Git is used to track changes in my project. GitHub is an online platform where I
 
 \- Understanding how to connect my local project to a GitHub repository.
 
+
+
+
+
+\## Day 3 — System vs User Prompts
+
+
+
+\### Experiment 1
+
+The friendly instruction made the response short and conversational.
+
+
+
+\### Experiment 2
+
+The numbered-step instruction made the response detailed and organized into three steps.
+
+
+
+\### Experiment 3
+
+The support instruction made the response empathetic and asked for the tracking number.
+
+
+
+\### My conclusion
+
+The user message tells the model what question to answer.
+
+The system message guides how the model should answer.
+
+
+
